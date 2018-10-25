@@ -1,0 +1,12 @@
+#+TITLE: washi-mech-wallpapers
+
+* Blend files
+  There is one blend files for each aspect ratio
+* Render files
+  Render files can be found in the folder corresponding to their
+  resolution
+* Requests
+  You can contribute by rendering your scene and then submitting a
+  pull request.
+  If you want to request a render for your favorite
+  colorway/resolution, please open an issue
